@@ -1,0 +1,2 @@
+# VISUAL_STUDIO_CODE
+ vsc
